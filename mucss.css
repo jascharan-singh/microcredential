@@ -1,0 +1,13 @@
+.b{
+text-align: center;
+}
+.h:hover{
+box-shadow: 0px 0px 12px gray;
+}
+.link1{
+  text-decoration: none !important;
+}
+.f{
+  padding-right: 140px;
+padding-left: 140px;
+}
